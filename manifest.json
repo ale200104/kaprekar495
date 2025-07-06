@@ -1,0 +1,15 @@
+{
+  "name": "Kaprekar 495",
+  "short_name": "Kaprekar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1b1a17",
+  "theme_color": "#8c6e4f",
+  "icons": [
+    {
+      "src": "icono.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
